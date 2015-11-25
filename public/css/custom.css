@@ -1,0 +1,9 @@
+article.message-sender {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+
+article.margin-bottom {
+  margin-bottom: 120px;
+}
